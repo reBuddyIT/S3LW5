@@ -7,7 +7,7 @@
 *	Language     : c/c++												*
 *	Programmers  : Плоцкий Б.А. Раужев Ю. М.							*
 *	Created      : 17/11/22												*
-*	Last revision: --/11/22												*
+*	Last revision: 21/11/22												*
 *	Comment(s)   : 														*
 *																		*
 *	Программно реализовать дек в виде двунаправленного дека согласно	*
@@ -613,4 +613,4 @@ void deq_print(deq<T>* _deq, ostream& _out_stream)
 	// печать конца таблицы
 	_out_stream << OUT_W('-', 22) << '\n';
 }
-/**************** End Of LW4.cpp File ***************/
+/**************** End Of LW5.cpp File ***************/
